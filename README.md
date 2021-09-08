@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Breno-Rocha
-- 👀 I’m interested in ... Aprender linguagens  
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ...   O que for possivel  
-- 📫 How to reach me ...
+- 👋 Ola eu sou @Breno-Rocha
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-Rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Rocha&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<!---
-Breno-Rocha/Breno-Rocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ##
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
